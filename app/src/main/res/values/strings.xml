@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GitHubClient</string>
+    <string name="hello_text">Добро пожаловать.
+        Вас приветствует главный экран приложения GitHubClient. Оно предоставляет пользователю основную информацию о его репозиториях. Нажмите кнопку LOG IN, чтобы войти в свой аккаунт GitHub и начать работу с приложением</string>
+    <string name="forks">"Forks: "</string>
+    <string name="watches">"Watches: "</string>
+</resources>
